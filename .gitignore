@@ -1,0 +1,19 @@
+# Shell / Node
+*.log
+*.tmp
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Keys (NEVER commit)
+*.key
+private.key
+*.pem
